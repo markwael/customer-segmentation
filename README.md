@@ -1,4 +1,3 @@
-# customer-segmentation
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
 
